@@ -42,7 +42,7 @@ Before you begin, make sure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/xHexlabx/type_breaker.git](https://github.com/xHexlabx/TypeBreaker.git)](https://github.com/xHexlabx/type_breaker.git)
+    git clone https://github.com/xHexlabx/type_breaker.git
     cd type_breaker
     ```
 
