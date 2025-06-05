@@ -1,5 +1,3 @@
----
-
 # TypeBreaker 🐵
 
 ## Monkey Type Typing Bot (OCR-Powered) 🤖
@@ -21,4 +19,3 @@ TypeBreaker is a Python project designed to enhance WPM (Words Per Minute) score
 
 This project was created for the purpose of studying and exploring the feasibility of using OCR to interact with websites, particularly in the context of typing games or tests.
 
----
