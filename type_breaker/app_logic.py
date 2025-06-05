@@ -13,15 +13,15 @@ SCREEN_POSITION = {
 }
 
 def start_app():
-    print("TypeBreaker is ready. Press Enter to start, and press Enter again to stop. 🎯")
+    print("type_breaker is ready. Press Enter to start, and press Enter again to stop. 🎯")
     keyboard.wait("enter")
-    print("TypeBreaker is running 🤖")
+    print("type_breaker is running 🤖")
 
     time.sleep(2)
 
     while True:
         if keyboard.is_pressed("enter"):
-            print("TypeBreaker is stopping...")
+            print("type_breaker is stopping...")
             break
 
         screenshot = screen_capture(**SCREEN_POSITION)
