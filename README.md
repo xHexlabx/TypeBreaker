@@ -1,4 +1,4 @@
-# TypeBreaker 🐵
+# type_breaker 🐵
 
 ## Monkey Type Typing Bot (OCR-Powered) 🤖
 
