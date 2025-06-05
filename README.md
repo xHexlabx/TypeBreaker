@@ -1,20 +1,24 @@
+---
+
 # TypeBreaker 🐵
 
 ## Monkey Type Typing Bot (OCR-Powered) 🤖
 
-TypeBreaker คือโปรเจกต์ Python ที่พัฒนาขึ้นเพื่อเพิ่มประสิทธิภาพในการทำคะแนน WPM (Words Per Minute) บนแพลตฟอร์ม Monkey Type โดยเฉพาะ ด้วยการผสานรวมเทคโนโลยี OCR (Optical Character Recognition) เข้ากับ `pytesseract` ทำให้โปรเจกต์นี้สามารถ "อ่าน" คำที่แสดงบนหน้าเว็บ Monkey Type และดำเนินการพิมพ์โดยอัตโนมัติ
+TypeBreaker is a Python project designed to enhance WPM (Words Per Minute) scores specifically on the **Monkey Type** platform. By integrating **OCR (Optical Character Recognition)** technology with **`pytesseract`**, this project can "read" the words displayed on the Monkey Type webpage and automatically perform the typing actions.
 
-### คุณสมบัติหลัก:
+### Key Features:
 
-* **OCR-Powered Typing:** ใช้ `pytesseract` ในการตรวจจับและแปลงข้อความจากภาพบน Monkey Type ให้เป็นข้อมูลที่เครื่องอ่านได้
-* **Automated WPM Scoring:** ช่วยให้ผู้ใช้สามารถทำคะแนน WPM บน Monkey Type ได้อย่างรวดเร็วและแม่นยำยิ่งขึ้น
-* **Python-based:** พัฒนาด้วยภาษา Python ทำให้ง่ายต่อการทำความเข้าใจ ปรับแต่ง และขยายผล
+* **OCR-Powered Typing:** Utilizes `pytesseract` to detect and convert text from images on Monkey Type into machine-readable data.
+* **Automated WPM Scoring:** Helps users achieve faster and more accurate WPM scores on Monkey Type.
+* **Python-based:** Developed using Python, making it easy to understand, customize, and extend.
 
-### เทคโนโลยีที่ใช้:
+### Technologies Used:
 
-* **Python:** ภาษาโปรแกรมหลักที่ใช้ในการพัฒนา
-* **Pytesseract:** ไลบรารี Python สำหรับการใช้งาน Tesseract OCR Engine
+* **Python:** The primary programming language used for development.
+* **Pytesseract:** A Python library for interacting with the Tesseract OCR Engine.
 
-### วัตถุประสงค์ของโปรเจกต์:
+### Project Objective:
 
-โปรเจกต์นี้สร้างขึ้นเพื่อวัตถุประสงค์ในการศึกษาและสำรวจความเป็นไปได้ของการใช้ OCR ในการโต้ตอบกับเว็บไซต์ โดยเฉพาะอย่างยิ่งในบริบทของเกมหรือการทดสอบการพิมพ์
+This project was created for the purpose of studying and exploring the feasibility of using OCR to interact with websites, particularly in the context of typing games or tests.
+
+---
